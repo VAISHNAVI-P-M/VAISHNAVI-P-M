@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaishnavi P M</h1>
+<h3 align="center">🚀 Aspiring Data Engineer | ML Enthusiast | 3rd Year ECE Student at VIT Chennai</h3>
 
-<!--
-**VAISHNAVI-P-M/VAISHNAVI-P-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **About Me**
+
+- 🎓 I'm a 3rd-year Electronics and Communication Engineering student at **VIT Chennai**, entering Semester 5.  
+- 👩🏻‍💻 Currently working as a **Data Engineer Intern** at **Sedin Technologies**, Chennai.  
+- 💡 Passionate about **Data Engineering** and **Machine Learning**, always exploring new tools and technologies.  
+- ✨ Active member of the **Android Club – Design Team**, contributing to the digital presence through creative posters and content.  
+- 📊 I love working on real-world projects that combine **code, data, and design**.
+
+---
+
+🛠️ **Skills & Technologies**
+
+```yaml
+Languages:   Python, Java, MySQL, R Programming, HTML, CSS, MATLAB
+Tools:       Power BI, Keil uVision, LTSpice, Verilog (ModelSim), Cadence Virtuoso
+Soft Skills: Leadership, Critical Thinking, Creativity, Collaboration, Communication
+```
+
+---
+
+📌 **Ongoing Projects & Research**
+
+- 🎯 **Student Behavior & Emotion Detection in Library**  
+  Using CCTV + YOLOv11 to analyze student behavior and emotion in academic spaces  
+  *(Tentative Publication: Mid 2027)*
+
+- 🚌 **Smart Bus Arrival Time Predictor**  
+  ML model to forecast arrival times using real-time and historical data  
+  *(Tentative Publication: Oct 2025)*
+
+---
+
+🧠 **Notable Projects**
+
+- 🖼️ *Background Removal Using MATLAB*  
+  Applied image processing techniques to isolate foreground objects.
+
+- 🛍️ *Retail Sales ETL & Dashboard Using Python, MySQL & Power BI*  
+  Built a complete retail sales analytics pipeline using:
+  - ✅ **Python** to extract CSV data and automate ingestion with `extract.py`.
+  - 🔄 **Pandas** for transforming raw data in `transform.py` (e.g., date formatting, totals).
+  - 💾 **MySQL** for structured data storage via `load.py`, with schema consistency.
+  - 📈 **Power BI** dashboard showcasing KPIs: Total Sales, AOV, Monthly Trends.
+  - 📂 Full project version-controlled on GitHub with scripts & dashboard previews.
+
+- 🛌 *Lifestyle & Sleep Study (R Programming)*  
+  Statistical study on how lifestyle choices impact student sleep patterns using R Programming.
+
+---
+
+📂 **Featured Projects**
+
+- 🔍 [Student Behavior & Emotion Detection in Library](#)  
+  YOLOv11 + Emotion detection + CCTV analysis.
+
+- 🚍 [Smart Bus Arrival Time Predictor](#)  
+  ML-based ETA predictions for public transport.
+
+- 🛒 [Retail Sales ETL & Dashboard](#)  
+  Python + MySQL + Power BI pipeline with interactive dashboards.
+
+---
+
+🚀 **Interested in Exploring**
+
+- Apache Airflow for data pipeline orchestration  
+- PySpark for scalable data processing  
+- Streamlit & Flask for ML model deployment  
+- Advanced dashboard design & data storytelling techniques
+
+---
+
+📫 **Let's Connect!**
+
+- 📧 Email: [vaishu.in2265@gmail.com](mailto:vaishu.in2265@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my profile! Let's build something amazing together.*
