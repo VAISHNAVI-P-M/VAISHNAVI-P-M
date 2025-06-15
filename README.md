@@ -39,7 +39,7 @@ Soft Skills: Leadership, Critical Thinking, Creativity, Collaboration, Communica
 🧠 **Notable Projects**
 
 - 🖼️ *Background Removal Using MATLAB*  
-  Applied image processing techniques to isolate foreground objects.
+  This project focuses on developing a MATLAB-based system for background removal in images, using advanced image processing techniques to enable the isolation of foreground objects from theirbackgrounds.
 
 - 🛍️ *Retail Sales ETL & Dashboard Using Python, MySQL & Power BI*  
   Built a complete retail sales analytics pipeline using:
@@ -50,7 +50,7 @@ Soft Skills: Leadership, Critical Thinking, Creativity, Collaboration, Communica
   - 📂 Full project version-controlled on GitHub with scripts & dashboard previews.
 
 - 🛌 *Lifestyle & Sleep Study (R Programming)*  
-  Statistical study on how lifestyle choices impact student sleep patterns using R Programming.
+  A statistical study analyzing how lifestyle factors like exercise, caffeine intake, screen time, and stress affect university students' sleep patterns using R software.
 
 ---
 
