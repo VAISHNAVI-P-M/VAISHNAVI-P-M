@@ -17,9 +17,12 @@
 🛠️ **Skills & Technologies**
 
 ```yaml
-Languages:   Python, Java, MySQL, R Programming, HTML, CSS, MATLAB
-Tools:       Power BI, Keil uVision, LTSpice, Verilog (ModelSim), Cadence Virtuoso
-Soft Skills: Leadership, Critical Thinking, Creativity, Collaboration, Communication
+Programming Languages: Python, Java, C, C++, R  
+Data & Databases: SQL, PostgreSQL  
+Data Analytics & BI: Power BI  
+Machine Learning: Data preprocessing, feature engineering, basic ML modeling  
+Tools & Platforms: MATLAB, Keil, Cadence Virtuoso, ModelSim  
+Soft Skills: Leadership, Time Management, Team Collaboration, Creativity and Innovation
 ```
 
 ---
@@ -32,7 +35,7 @@ Soft Skills: Leadership, Critical Thinking, Creativity, Collaboration, Communica
 
 - 🚌 **Smart Bus Arrival Time Predictor**  
   ML model to forecast arrival times using real-time and historical data  
-  *(Tentative Publication: Oct 2025)*
+  *(Tentative Publication: Mid 2026)*
 
 ---
 
